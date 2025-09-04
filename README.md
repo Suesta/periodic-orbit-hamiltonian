@@ -21,12 +21,13 @@ All implementations are written in pure C, without external libraries, and optim
 - `FuncionsQR.h`: Custom header for the QR decomposition.
 - `Instruccions per executar.txt`: Execution instructions (in Catalan).
 
-## 🔗 Author
-Víctor Suesta  
-[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
-
 ## 🧪 How to Run
 
 1. Compile the desired source file using `gcc`. Example:
    ```bash
    gcc -o orbit Pr4Ex2.c FUNCTIONS.c -lm
+
+
+## 🔗 Author
+Víctor Suesta  
+[LinkedIn](https://www.linkedin.com/in/víctor-suesta-arribas-7b1250322/)
